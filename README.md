@@ -8,17 +8,24 @@ This folder contains the animations for the walkthrough tutorial that should be 
 
 
 These are animated instructions for [DOT Face Auto Capture](https://developers.innovatrics.com/digital-onboarding/docs/functionalities/face/auto-capture/) in the recommended sequence:
+- F0-remove-mask
+![mask](autocapture-walkthrough-tutorial/icons-and-instructions/F0-remove-mask.png)
 - F1-clean-camera
+![clean](autocapture-walkthrough-tutorial/icons-and-instructions/F1-clean-camera.png)
 - F2-phone-vertical
+![vertical](autocapture-walkthrough-tutorial/icons-and-instructions/F2-phone-vertical.png)
 - F3-light-source
+![light](autocapture-walkthrough-tutorial/icons-and-instructions/F3-light-source.png)
 
 These are animated instructions for [DOT Document Auto Capture](https://developers.innovatrics.com/digital-onboarding/docs/functionalities/document/auto-capture/) in the recommended sequence:
 - D1-clean-camera
+![clean](autocapture-walkthrough-tutorial/icons-and-instructions/D1-clean-camera.png)
 - D2-on-table
+![table](autocapture-walkthrough-tutorial/icons-and-instructions/D2-on-table.png)
 - D3-light-conditions
+![light](autocapture-walkthrough-tutorial/icons-and-instructions/D3-light-conditions.png)
 - D4-reflections
-
-
+![reflections](autocapture-walkthrough-tutorial/icons-and-instructions/D4-reflections.png)
 
 ### Folder structure
 
